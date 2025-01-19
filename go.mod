@@ -1,4 +1,4 @@
-module go_srt_formatter
+module go-fragment-srt-file
 
 go 1.22.4
 
